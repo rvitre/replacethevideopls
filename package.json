@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rvitre/replacethevideopls/issues"
   },
-  "homepage": "https://github.com/rvitre/replacethevideopls#readme"
+  "homepage": "https://github.com/rvitre/replacethevideopls#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
